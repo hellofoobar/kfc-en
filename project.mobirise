@@ -2084,8 +2084,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div id=\"qrcode\" style=\"\n\tposition: fixed;\n\tright: 8px;\n\tbottom: 8px;\n\twidth: 100px;\n    color: white;\n    text-align: center\">\n    <img src=\"assets/images/kamifaceqr.png\" alt=\"\" style=\"width: 100%\">\n\t<p style=\"color: black; font-size: 1em;\">微信号 m80802200</p>\n\t\n\t<!-- <div style=\"text-align: center;\">扫一扫</div> -->\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 0 0;\n  color: #777;\n  text-align: center;\n  z-index: 9999;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "_customHTML": "",
+          "_customCSS": "",
           "alias": "code-editor",
           "_tags": [
             "Extension"
